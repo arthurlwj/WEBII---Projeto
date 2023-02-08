@@ -6,7 +6,7 @@ Grupo: Arthur Bezerra e Rackel Maria
 
 A ideia do projeto foi simular um CRUD do usuário 
 
-Esse projeto fizemos uso de Node, React e MySQL
+Esse projeto fizemos uso de Node, JavaScript, Html, Css, React como biblioteca e MySQL
 
 Após baixar o repoitório para sua máquina e utilizando o git bash, para dar comando inicial ao sistema, siga os passos
 
